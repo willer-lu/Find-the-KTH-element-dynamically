@@ -1,3 +1,5 @@
 # Find-the-KTH-element-dynamically  
-A red-black tree data structure is used.  
-The system can also add,delete and search specified element.  
+数据结构课设2  
+动态寻找第k小元素
+采用红黑树结构  
+同样可以增删查指定元素
